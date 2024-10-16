@@ -151,7 +151,7 @@ setcount(counter);
           <Link
             target="_blank"
             className=" text-blue-700 font-nunito "
-            to="https://www.linkedin.com/in/Dev-chaitanya-tiwari-a30478200/"
+            to="https://www.linkedin.com/in/varun-raj-singh-13a52a311/"
           >
             {" "}
             Varun Raj Singh  &nbsp;
